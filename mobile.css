@@ -181,6 +181,32 @@
   
   }
 
+  .alimento {
+    background-color: #AA8395; /* Cor de fundo vermelha */
+    border: none;
+    border-radius: 10px; /* Cantos arredondados */
+    width: 60px; /* Defina a largura dos botões */
+    margin: 5px; /* Espaçamento entre os botões */
+    padding: 0px; /* Espaçamento interno dos botões */
+    font-size: 14px; /* Tamanho da fonte */
+    color: white; /* Cor do texto */
+    text-align: center;
+    cursor: pointer; 
+  }
+
+  .coluna1, .coluna2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.coluna1 button, .coluna2 button {
+    box-sizing: border-box; /* Evita problemas de dimensionamento */
+    margin: 0; /* Remove margens padrão */
+}
+
+
 }
 
 
