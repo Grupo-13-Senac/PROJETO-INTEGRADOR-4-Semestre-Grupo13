@@ -39,13 +39,8 @@ window.onload = function () {
 };
 
 document.addEventListener("DOMContentLoaded", function() {
-
-
-
-
-
 const botoesInternos = document.querySelectorAll('.botaoInterno');
-    const conteudoInterno = document.querySelector('.conteudoInterno');
+const conteudoInterno = document.querySelector('.conteudoInterno');
 
     // Função para atualizar o fundo do elemento .conteudoInterno com base no botão clicado
     function atualizarFundo(botao) {
@@ -74,11 +69,6 @@ const botoesInternos = document.querySelectorAll('.botaoInterno');
             }
         });
     });
-
-
-
-
-
 
     const thirdSectionLeftDiv = document.getElementById("imageContainer");
     const textContainer = document.querySelector(".thirdsection-rightdiv");
