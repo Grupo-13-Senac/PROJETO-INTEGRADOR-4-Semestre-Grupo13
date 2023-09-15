@@ -84,9 +84,9 @@ const botoesInternos = document.querySelectorAll('.botaoInterno');
     const textContainer = document.querySelector(".thirdsection-rightdiv");
     const images = ["image1.jpeg", "image2.jpeg", "image3.jpeg"];
     const texts = [
-        "Este é um depoimento sobre a nossa experiência com nosso querido pet. Ele sempre nos enche de alegria e amor.",
-        "Nossa jornada com nosso amado animal de estimação tem sido incrível. Ele é parte da nossa família e traz muita felicidade aos nossos dias.",
-        "Estamos gratos por todos os momentos maravilhosos que compartilhamos com nosso pet. Ele é verdadeiramente especial para nós."
+        "Eu estou absolutamente maravilhado com esse site que encontrei para alimentar meu querido pet. Como dono de um animal de estimação, sempre me preocupei com sua saúde e bem-estar, especialmente quando se trata de sua alimentação.",
+        "Este site me apresentou uma ampla variedade de alimentos alternativos, todos eles muito mais saudáveis ​​e benéficos para a saúde do meu pet.",
+        "Posso dizer com confiança que este site mudou minha vida e a do meu pet para melhor. Sinto-me grato por ter encontrado essa solução tão inovadora, pois agora posso oferecer ao meu animal de estimação uma dieta saudável e variada, que contribui para sua saúde e felicidade." 
     ];
     let currentIndex = 0;
 
